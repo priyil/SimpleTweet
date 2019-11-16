@@ -40,7 +40,9 @@
         android:textColor="#000000"
         android:autoLink="all"
         android:linksClickable="true"
+
         tools:text="This is a tweet!" />
+
 
     <TextView
         android:id="@+id/tvTimestamp"
