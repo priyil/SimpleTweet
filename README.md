@@ -42,7 +42,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/priyil/SimpleTweet/blob/master/walkthrough1.gif' />
+<img src='https://github.com/priyil/SimpleTweet/blob/master/walkthrough1a.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
